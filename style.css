@@ -3,10 +3,10 @@ section {min-height: 100%;}
 a {text-decoration: none;}
 li {list-style-type: none;}
 
-h1, h2, a, li {font-family: 'Roboto', sans-serif; font-weight: 500; color: #494949; text-transform: uppercase;}
+h1, h2, a {font-family: 'Roboto', sans-serif; font-weight: 500; color: #494949; text-transform: uppercase;}
 h2 {color: #5d7177;}
 h3 {font-size: 40px; padding-top: 8%; margin-bottom: 5px;}
-h3, p {font-family: 'Roboto Slab', serif; color: #494949;}
+h3, p, li {font-family: 'Roboto Slab', serif; color: #494949;}
 
 hr {width: 30px; height: 3px; background: #494949; border: 0; margin: 0 auto 40px auto;}
 img, li, #logo {transition: all 300ms; -webkit-transition: all 300ms; -moz-transition: all 300ms; -o-transition: all 300ms;}

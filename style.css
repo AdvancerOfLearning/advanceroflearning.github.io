@@ -124,6 +124,17 @@ header nav ul li:hover {
 
 /*schulisches**********/
 
+#schulisches img {
+  width: 240px
+}
+
+#schulisches img:hover {
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+
 #schulisches p {
   width: 700px;
   margin: 20px auto 0 auto;
